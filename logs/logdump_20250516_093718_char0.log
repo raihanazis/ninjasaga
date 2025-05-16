@@ -1,0 +1,14 @@
+=== Report Log Dump ===
+Timestamp     : 2025-05-16 09:37:18
+Session Key   : 53e8c4bc6f45b004d855dc544850b214
+Character ID  : 0
+Flash Version : WIN 32,0,0,0
+Player Type   : PlugIn
+OS            : Windows 8
+Build No      : 2016.12.25
+-------------------------
+LinkedQueue:
+SLinkedList: has 1 node
+|< Head
+	Out :: Error :: [object DataParser] :: parseCharacterData::null
+Tail >|
